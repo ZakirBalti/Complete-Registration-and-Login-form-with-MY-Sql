@@ -1,0 +1,16 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+ #font{
+border-style: solid;
+  border-color:gray;
+  font-family: bold;
+  font-size: 18px;
+  margin:auto;
+}
